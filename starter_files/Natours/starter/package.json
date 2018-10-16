@@ -4,7 +4,7 @@
   "description": "css/sass learning",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w" //npm run compile:sass
+    "compile:sass": "node-sass sass/main.scss css/style.css -w" 
   },
   "author": "Dancannon27",
   "license": "ISC",
